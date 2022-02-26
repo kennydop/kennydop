@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kennydop
 - 👀 I’m interested in game dev, web dev, app dev
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 email: dansooffeipatrick@gmail.com, twitter: @kennydop_
 
