@@ -2,7 +2,7 @@
 - 👀 I’m interested in game dev, web dev, app dev
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 email: dansooffeipatrick@gmail.com, twitter: [@kennydop_](twitter.com/kennydop_)
+- 📫 email: dansooffeipatrick@gmail.com, twitter: [@kennydop_](https://twitter.com/kennydop_)
 
 <!---
 kennydop/kennydop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
