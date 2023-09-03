@@ -1,4 +1,5 @@
 email: dansooffeipatrick@gmail.com
+  
 linkedin: [Patrick (Offei) Danso](https://linkedin.com/in/kennydop)
 x(twitter): [@kennydop_](https://twitter.com/kennydop_)
 medium: [@kennydop](https://medium.com/@kennydop)
