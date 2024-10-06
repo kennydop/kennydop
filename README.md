@@ -4,7 +4,6 @@ x(twitter): [@kennydop_](https://twitter.com/kennydop_) <br/>
 medium: [@kennydop](https://medium.com/@kennydop) <br/>
 dev: [@kennydop](https://dev.to/kennydop) <br/>
 instagram: [@kennydop](https://instagram.com/kennydop) <br/>
-threads: [@kennydop](https://threads.net/@kennydop) <br/>
 
 <!---
 kennydop/kennydop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
