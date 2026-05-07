@@ -1,4 +1,4 @@
-[kennydop.com](https://kennydop.com)
+[kennydop.com](https://kennydop.com) <br/>
 email: dansooffeipatrick@gmail.com <br/>
 linkedin: [Patrick (Offei) Danso](https://linkedin.com/in/kennydop) <br/>
 x(twitter): [@kennydop_](https://twitter.com/kennydop_) <br/>
